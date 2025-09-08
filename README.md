@@ -16,7 +16,7 @@ Curated list of resources for Reachy Mini
 ## Community
 
 - [Disord - Pollen Community](https://discord.gg/HDrGY9eJHt)
-- [Pollen Robotics（@pollenrobotics / X](https://x.com/pollenrobotics)
+- [Pollen Robotics（@pollenrobotics) / X](https://x.com/pollenrobotics)
 
 ## Articles
 
