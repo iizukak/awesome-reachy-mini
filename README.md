@@ -29,3 +29,4 @@ Curated list of resources for Reachy Mini
 
 - [Your open-source companion - Reachy Mini - YouTube](https://www.youtube.com/watch?v=JvdBJZ-qR18)
 - [Can GPT‑4o Give Robots Feelings? Reachy Mini Demo - YouTube](https://www.youtube.com/watch?v=h1F8YrTkrWA)
+- [Speedrun Reachy Mini - Matthieu & Augustin Race - YouTube](https://www.youtube.com/watch?v=_lk_YOCC8sI)
