@@ -21,8 +21,6 @@ Curated list of resources for Reachy Mini
 
 ## Blogs and Articles
 
-- [Blog - Reachy Mini | Open-Source AI Robot Tutorials & News](https://reachy-mini.com/blog/)
-- [Reachy Mini Tutorials](https://www.reachyminitutorials.com/)
 - [Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builders](https://huggingface.co/blog/reachy-mini) 
 
 ## Videos
