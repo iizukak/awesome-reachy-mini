@@ -4,7 +4,6 @@ Curated list of resources for Reachy Mini
 
 ## Official Resources
 
-- [Reachy Mini - Open-Source Desktop AI Robot | Hugging Face × Pollen Robotics](https://reachy-mini.com/#en)
 - [Reachy Mini - Pollen Robotics](https://www.pollen-robotics.com/reachy-mini/)
 
 ## Repositories
