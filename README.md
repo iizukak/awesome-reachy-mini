@@ -11,6 +11,7 @@ Curated list of resources for Reachy Mini
 - [pollen-robotics/reachy\_mini: Reachy Mini's SDK](https://github.com/pollen-robotics/reachy_mini/)
 - [pollen-robotics/reachy-mini-motor-controller - GitHub](https://github.com/pollen-robotics/reachy-mini-motor-controller)
 - [pollen-robotics/reachy\_mini\_app\_example - GitHub](https://github.com/pollen-robotics/reachy_mini_app_example)
+- [pollen-robotics/reachy\_mini\_dances\_library - GitHub](https://github.com/pollen-robotics/reachy_mini_dances_library)
 - [Pollen Robotics - Hugging Face](https://huggingface.co/pollen-robotics)
 
 ## Community
