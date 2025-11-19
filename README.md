@@ -8,11 +8,19 @@ Curated list of resources for Reachy Mini
 
 ## Repositories
 
+### Official Repositories
+
 - [pollen-robotics/reachy\_mini: Reachy Mini's SDK](https://github.com/pollen-robotics/reachy_mini/)
+- [pollen-robotics/reachy\_mini\_toolbox: Useful tools for making Reachy Mini behaviors](https://github.com/pollen-robotics/reachy_mini_toolbox)
+- [pollen-robotics/reachy\_mini\_conversation\_app: Talk with Reachy Mini!](https://github.com/pollen-robotics/reachy_mini_conversation_app#)
 - [pollen-robotics/reachy-mini-motor-controller - GitHub](https://github.com/pollen-robotics/reachy-mini-motor-controller)
 - [pollen-robotics/reachy\_mini\_app\_example - GitHub](https://github.com/pollen-robotics/reachy_mini_app_example)
 - [pollen-robotics/reachy\_mini\_dances\_library - GitHub](https://github.com/pollen-robotics/reachy_mini_dances_library)
 - [Pollen Robotics - Hugging Face](https://huggingface.co/pollen-robotics)
+
+### Unofficial Repositories
+
+- [iizukak/reachy\_mini\_turbowarp: Custom TurboWarp/Scratch 3.0 extension for controlling the Reachy Mini robot.](https://github.com/iizukak/reachy_mini_turbowarp)
 
 ## Community
 
