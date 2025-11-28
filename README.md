@@ -17,13 +17,12 @@ Curated list of resources for Reachy Mini
 - [pollen-robotics/reachy\_mini\_app\_example - GitHub](https://github.com/pollen-robotics/reachy_mini_app_example)
 - [pollen-robotics/reachy\_mini\_dances\_library - GitHub](https://github.com/pollen-robotics/reachy_mini_dances_library)
 - [Pollen Robotics - Hugging Face](https://huggingface.co/pollen-robotics)
-- [haixuanTao/reachy\_mini\_webserial: Reachy Mini webserial connection based on Rust + Wasm + Webserial.](https://github.com/haixuanTao/reachy_mini_webserial)
-- [iizukak/reachy\_mini\_turbowarp: Custom TurboWarp/Scratch 3.0 extension for controlling the Reachy Mini robot.](https://github.com/iizukak/reachy_mini_turbowarp)
 
 
 ### Unofficial Repositories
 
-- [iizukak/reachy\_mini\_turbowarp: Custom TurboWarp/Scratch 3.0 extension for controlling the Reachy Mini robot.](https://github.com/iizukak/reachy_mini_turbowarp)
+- [haixuanTao/reachy\_mini\_webserial - GitHub](https://github.com/haixuanTao/reachy_mini_webserial)
+- [iizukak/reachy\_mini\_turbowarp: Custom TurboWarp - GitHub](https://github.com/iizukak/reachy_mini_turbowarp)
 
 ## Community
 
